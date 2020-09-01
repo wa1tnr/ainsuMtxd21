@@ -1,0 +1,10 @@
+
+To look at early PA14 clock foo
+
+ git $ git branch
+* KM_converser_aa-
+  master
+ git $ git checkout -b sep_2020-exp-a
+Switched to a new branch 'sep_2020-exp-a'
+
+Tue Sep  1 08:45:28 UTC 2020
